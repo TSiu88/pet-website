@@ -1,0 +1,55 @@
+body {
+  color: whitesmoke;
+  background-color: darkslateblue;
+  text-shadow: 3px 2px cornflowerblue;
+}
+
+h1 {
+  font-size: 70px;
+  font-style: italic;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+p {
+  font-size: 18pt;
+}
+
+ul {
+  font-size: 30px;
+}
+
+ol {
+  font-size: 20pt;
+}
+
+table {
+  font-size: 20px;
+  width: 50%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+}
+
+a {
+  color: hotpink;
+  text-shadow: none;
+}
+
+strong {
+  text-shadow: none;
+  color: rgb(99, 163, 99);
+  text-decoration: underline;
+}
